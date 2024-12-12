@@ -1,8 +1,7 @@
 
 # Brad Nguyen's Portfolio
 
-Hello! I'm Brad Nguyen and I'm a student at [Cal State Fullerton](http://www.fullerton.edu/) majoring in computer engineering.
-
+Hello! I'm Brad Nguyen and I'm a student at [Cal State Fullerton](http://www.fullerton.edu/) majoring in computer engineering that's planning to graduate in 2028.
 ## Favorite labs in CPSC120L
 
 Lab 2: Part 1
